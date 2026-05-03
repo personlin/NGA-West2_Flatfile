@@ -192,9 +192,10 @@ derive_event_region <- function(event_name) {
 derive_station_region <- function(lat, lon) {
   out <- rep("unknown", length(lat))
   ok <- !is.na(lat) & !is.na(lon)
+  in_taiwan <- ok & lat >= 21 & lat <= 26 & lon >= 119 & lon <= 123
   out[ok & lat >= 24 & lat <= 50 & lon >= -125 & lon <= -66] <- "United States"
   out[ok & lat >= 30 & lat <= 46 & lon >= 128 & lon <= 146] <- "Japan"
-  out[ok & lat >= 21 & lat <= 26 & lon >= 119 & lon <= 123] <- "Taiwan"
+  out[in_taiwan] <- "Taiwan"
   out[ok & lat >= 35 & lat <= 43 & lon >= 25 & lon <= 45] <- "Turkey"
   out[ok & lat >= 36 & lat <= 47 & lon >= 6 & lon <= 19] <- "Italy"
   out[ok & lat >= 18 & lat <= 33 & lon >= -118 & lon <= -86] <- "Mexico"
@@ -202,7 +203,7 @@ derive_station_region <- function(lat, lon) {
   out[ok & lat >= -56 & lat <= -17 & lon >= -76 & lon <= -66] <- "Chile"
   out[ok & lat >= 34 & lat <= 42 & lon >= 19 & lon <= 30] <- "Greece"
   out[ok & lat >= 25 & lat <= 40 & lon >= 44 & lon <= 64] <- "Iran"
-  out[ok & lat >= 18 & lat <= 54 & lon >= 73 & lon <= 135] <- "China"
+  out[ok & !in_taiwan & lat >= 18 & lat <= 54 & lon >= 73 & lon <= 135] <- "China"
   out
 }
 
@@ -456,4 +457,3 @@ build_core_tables <- function(base_dt, files, field_catalog) {
     class2_distances = class2_distances[!is.na(rsn)]
   )
 }
-
