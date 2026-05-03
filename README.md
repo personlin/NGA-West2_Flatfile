@@ -117,6 +117,8 @@ The app includes:
 - Server-side table previews.
 - Basic statistical charts.
 - Lazy-loaded RDS analysis for selected wide flatfiles.
+- Native GMPE prediction and residual plots in the Analysis tab for selected
+  5 percent RotD50 PGA/PSA subsets.
 
 ## Data Products
 
@@ -164,4 +166,3 @@ See [docs/sqlite_usage.md](docs/sqlite_usage.md), [docs/rds_usage.md](docs/rds_u
 Primary documentation source:
 
 Ancheta, T. D., Darragh, R. B., Stewart, J. P., Seyhan, E., Silva, W. J., Chiou, B. S.-J., Wooddell, K. E., Graves, R. W., Kottke, A. R., Boore, D. M., Kishida, T., and Donahue, J. L. (2013). *PEER NGA-West2 Database*. PEER Report 2013/03.
-

@@ -1,0 +1,21 @@
+case_id,description,model,period_s,M,Rrup,Rjb,Rx,Vs30,Frv,Fnm,Fhw,FAS,U,RS,NS,F,Ztor,W,dip,Zhyp,Z1,Z25,region
+ask14_ss_global_p0p0,strike-slip global,ASK14,0.0,6.0,30,25,0,760,0,0,0,0,0,0,0,0,999,999,90,999,999,999,global
+ask14_ss_global_p0p2,strike-slip global,ASK14,0.2,6.0,30,25,0,760,0,0,0,0,0,0,0,0,999,999,90,999,999,999,global
+ask14_ss_global_p1p0,strike-slip global,ASK14,1.0,6.0,30,25,0,760,0,0,0,0,0,0,0,0,999,999,90,999,999,999,global
+ask14_ss_global_p3p0,strike-slip global,ASK14,3.0,6.0,30,25,0,760,0,0,0,0,0,0,0,0,999,999,90,999,999,999,global
+bssa14_rev_japan_p0p0,reverse Japan,BSSA14,0.0,6.8,20,18,5,500,1,0,1,0,0,1,0,1,2,15,30,9,999,999,japan
+bssa14_rev_japan_p0p2,reverse Japan,BSSA14,0.2,6.8,20,18,5,500,1,0,1,0,0,1,0,1,2,15,30,9,999,999,japan
+bssa14_rev_japan_p1p0,reverse Japan,BSSA14,1.0,6.8,20,18,5,500,1,0,1,0,0,1,0,1,2,15,30,9,999,999,japan
+bssa14_rev_japan_p3p0,reverse Japan,BSSA14,3.0,6.8,20,18,5,500,1,0,1,0,0,1,0,1,2,15,30,9,999,999,japan
+cb14_norm_china_p0p0,normal China,CB14,0.0,5.8,50,45,0,300,0,1,0,0,0,0,1,-1,999,999,60,999,999,999,china
+cb14_norm_china_p0p2,normal China,CB14,0.2,5.8,50,45,0,300,0,1,0,0,0,0,1,-1,999,999,60,999,999,999,china
+cb14_norm_china_p1p0,normal China,CB14,1.0,5.8,50,45,0,300,0,1,0,0,0,0,1,-1,999,999,60,999,999,999,china
+cb14_norm_china_p3p0,normal China,CB14,3.0,5.8,50,45,0,300,0,1,0,0,0,0,1,-1,999,999,60,999,999,999,china
+cy14_rev_turkey_p0p0,reverse Turkey sentinel,CY14,0.0,7.2,70,65,10,900,1,0,1,0,0,1,0,1,999,999,45,999,999,999,turkey
+cy14_rev_turkey_p0p2,reverse Turkey sentinel,CY14,0.2,7.2,70,65,10,900,1,0,1,0,0,1,0,1,999,999,45,999,999,999,turkey
+cy14_rev_turkey_p1p0,reverse Turkey sentinel,CY14,1.0,7.2,70,65,10,900,1,0,1,0,0,1,0,1,999,999,45,999,999,999,turkey
+cy14_rev_turkey_p3p0,reverse Turkey sentinel,CY14,3.0,7.2,70,65,10,900,1,0,1,0,0,1,0,1,999,999,45,999,999,999,turkey
+i14_ss_global_p0p0,strike-slip global,I14,0.0,6.0,30,25,0,760,0,0,0,0,0,0,0,0,999,999,90,999,999,999,global
+i14_ss_global_p0p2,strike-slip global,I14,0.2,6.0,30,25,0,760,0,0,0,0,0,0,0,0,999,999,90,999,999,999,global
+i14_ss_global_p1p0,strike-slip global,I14,1.0,6.0,30,25,0,760,0,0,0,0,0,0,0,0,999,999,90,999,999,999,global
+i14_ss_global_p3p0,strike-slip global,I14,3.0,6.0,30,25,0,760,0,0,0,0,0,0,0,0,999,999,90,999,999,999,global

@@ -1,0 +1,76 @@
+{
+  "source_workbook": "NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm",
+  "source_workbook_sha256": "05c1346e3c422a9e48bf249cd2022b5ad12d2b987df71b383d247f2c83b0c74b",
+  "extracted_at_utc": "2026-05-03T04:07:44.384525+00:00",
+  "csv_schema": [
+    "model",
+    "period_s",
+    "period_key",
+    "imt",
+    "row_index",
+    "coefficient",
+    "value",
+    "cached_value",
+    "formula",
+    "source_sheet",
+    "source_cell",
+    "source_workbook"
+  ],
+  "sheets": [
+    {
+      "model": "ASK14",
+      "source_sheet": "ASK14_Coeffs",
+      "used_range": "A1:AT28",
+      "header_row": 3,
+      "first_data_row": 5,
+      "period_count": 24,
+      "row_count": 1080,
+      "formula_cell_count": 0,
+      "non_empty_data_cell_count": 1080
+    },
+    {
+      "model": "BSSA14",
+      "source_sheet": "BSSA14_Coeffs",
+      "used_range": "A1:AK27",
+      "header_row": 3,
+      "first_data_row": 5,
+      "period_count": 23,
+      "row_count": 828,
+      "formula_cell_count": 0,
+      "non_empty_data_cell_count": 828
+    },
+    {
+      "model": "CB14",
+      "source_sheet": "CB14_Coeffs",
+      "used_range": "A1:AR27",
+      "header_row": 3,
+      "first_data_row": 5,
+      "period_count": 23,
+      "row_count": 989,
+      "formula_cell_count": 0,
+      "non_empty_data_cell_count": 989
+    },
+    {
+      "model": "CY14",
+      "source_sheet": "CY14_Coeffs",
+      "used_range": "A1:AT30",
+      "header_row": 3,
+      "first_data_row": 5,
+      "period_count": 26,
+      "row_count": 1170,
+      "formula_cell_count": 8,
+      "non_empty_data_cell_count": 1170
+    },
+    {
+      "model": "I14",
+      "source_sheet": "I14_Coeffs",
+      "used_range": "A1:M26",
+      "header_row": 3,
+      "first_data_row": 5,
+      "period_count": 22,
+      "row_count": 264,
+      "formula_cell_count": 0,
+      "non_empty_data_cell_count": 264
+    }
+  ]
+}

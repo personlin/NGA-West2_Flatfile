@@ -1,0 +1,829 @@
+model,period_s,period_key,imt,row_index,coefficient,value,cached_value,formula,source_sheet,source_cell,source_workbook
+BSSA14,0.01,p0p010,SA,5,e0,0.4534,0.4534,,BSSA14_Coeffs,B5,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.01,p0p010,SA,5,e1,0.4916,0.4916,,BSSA14_Coeffs,C5,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.01,p0p010,SA,5,e2,0.2519,0.2519,,BSSA14_Coeffs,D5,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.01,p0p010,SA,5,e3,0.4599,0.4599,,BSSA14_Coeffs,E5,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.01,p0p010,SA,5,e4,1.421,1.421,,BSSA14_Coeffs,F5,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.01,p0p010,SA,5,e5,0.04932,0.04932,,BSSA14_Coeffs,G5,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.01,p0p010,SA,5,e6,-0.1659,-0.1659,,BSSA14_Coeffs,H5,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.01,p0p010,SA,5,Mh,5.5,5.5,,BSSA14_Coeffs,I5,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.01,p0p010,SA,5,c1,-1.134,-1.134,,BSSA14_Coeffs,J5,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.01,p0p010,SA,5,c2,0.1916,0.1916,,BSSA14_Coeffs,K5,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.01,p0p010,SA,5,c3,-0.008088,-0.008088,,BSSA14_Coeffs,L5,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.01,p0p010,SA,5,Mref,4.5,4.5,,BSSA14_Coeffs,M5,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.01,p0p010,SA,5,Rref (km),1,1,,BSSA14_Coeffs,N5,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.01,p0p010,SA,5,h (km),4.5,4.5,,BSSA14_Coeffs,O5,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.01,p0p010,SA,5,Dc3 (globalCATW),0,0,,BSSA14_Coeffs,P5,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.01,p0p010,SA,5,Dc3 (ChinaTurkey),0.00282,0.00282,,BSSA14_Coeffs,Q5,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.01,p0p010,SA,5,Dc3 (ItalyJapan),-0.00244,-0.00244,,BSSA14_Coeffs,R5,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.01,p0p010,SA,5,c,-0.6037,-0.6037,,BSSA14_Coeffs,S5,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.01,p0p010,SA,5,Vc (m/s),1500.2,1500.2,,BSSA14_Coeffs,T5,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.01,p0p010,SA,5,Vref  (m/s),760,760,,BSSA14_Coeffs,U5,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.01,p0p010,SA,5,f1,0,0,,BSSA14_Coeffs,V5,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.01,p0p010,SA,5,f3,0.1,0.1,,BSSA14_Coeffs,W5,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.01,p0p010,SA,5,f4,-0.1483,-0.1483,,BSSA14_Coeffs,X5,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.01,p0p010,SA,5,f5,-0.00701,-0.00701,,BSSA14_Coeffs,Y5,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.01,p0p010,SA,5,f6 (1/km),-9.9,-9.9,,BSSA14_Coeffs,Z5,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.01,p0p010,SA,5,f7,-9.9,-9.9,,BSSA14_Coeffs,AA5,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.01,p0p010,SA,5,R1 (km),111.67,111.67,,BSSA14_Coeffs,AB5,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.01,p0p010,SA,5,R2 (km),270,270,,BSSA14_Coeffs,AC5,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.01,p0p010,SA,5,DfR,0.096,0.096,,BSSA14_Coeffs,AD5,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.01,p0p010,SA,5,DfV,0.07,0.07,,BSSA14_Coeffs,AE5,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.01,p0p010,SA,5,V1 (m/s),225,225,,BSSA14_Coeffs,AF5,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.01,p0p010,SA,5,V2 (m/s),300,300,,BSSA14_Coeffs,AG5,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.01,p0p010,SA,5,f1_2,0.698,0.698,,BSSA14_Coeffs,AH5,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.01,p0p010,SA,5,f2,0.499,0.499,,BSSA14_Coeffs,AI5,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.01,p0p010,SA,5,t1,0.402,0.402,,BSSA14_Coeffs,AJ5,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.01,p0p010,SA,5,t2,0.345,0.345,,BSSA14_Coeffs,AK5,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.02,p0p020,SA,6,e0,0.48598,0.48598,,BSSA14_Coeffs,B6,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.02,p0p020,SA,6,e1,0.52359,0.52359,,BSSA14_Coeffs,C6,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.02,p0p020,SA,6,e2,0.29707,0.29707,,BSSA14_Coeffs,D6,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.02,p0p020,SA,6,e3,0.48875,0.48875,,BSSA14_Coeffs,E6,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.02,p0p020,SA,6,e4,1.4331,1.4331,,BSSA14_Coeffs,F6,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.02,p0p020,SA,6,e5,0.053388,0.053388,,BSSA14_Coeffs,G6,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.02,p0p020,SA,6,e6,-0.16561,-0.16561,,BSSA14_Coeffs,H6,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.02,p0p020,SA,6,Mh,5.5,5.5,,BSSA14_Coeffs,I6,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.02,p0p020,SA,6,c1,-1.1394,-1.1394,,BSSA14_Coeffs,J6,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.02,p0p020,SA,6,c2,0.18962,0.18962,,BSSA14_Coeffs,K6,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.02,p0p020,SA,6,c3,-0.008074,-0.008074,,BSSA14_Coeffs,L6,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.02,p0p020,SA,6,Mref,4.5,4.5,,BSSA14_Coeffs,M6,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.02,p0p020,SA,6,Rref (km),1,1,,BSSA14_Coeffs,N6,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.02,p0p020,SA,6,h (km),4.5,4.5,,BSSA14_Coeffs,O6,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.02,p0p020,SA,6,Dc3 (globalCATW),0,0,,BSSA14_Coeffs,P6,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.02,p0p020,SA,6,Dc3 (ChinaTurkey),0.00278,0.00278,,BSSA14_Coeffs,Q6,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.02,p0p020,SA,6,Dc3 (ItalyJapan),-0.00234,-0.00234,,BSSA14_Coeffs,R6,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.02,p0p020,SA,6,c,-0.5739,-0.5739,,BSSA14_Coeffs,S6,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.02,p0p020,SA,6,Vc (m/s),1500.36,1500.36,,BSSA14_Coeffs,T6,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.02,p0p020,SA,6,Vref  (m/s),760,760,,BSSA14_Coeffs,U6,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.02,p0p020,SA,6,f1,0,0,,BSSA14_Coeffs,V6,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.02,p0p020,SA,6,f3,0.1,0.1,,BSSA14_Coeffs,W6,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.02,p0p020,SA,6,f4,-0.1471,-0.1471,,BSSA14_Coeffs,X6,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.02,p0p020,SA,6,f5,-0.00728,-0.00728,,BSSA14_Coeffs,Y6,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.02,p0p020,SA,6,f6 (1/km),-9.9,-9.9,,BSSA14_Coeffs,Z6,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.02,p0p020,SA,6,f7,-9.9,-9.9,,BSSA14_Coeffs,AA6,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.02,p0p020,SA,6,R1 (km),113.1,113.1,,BSSA14_Coeffs,AB6,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.02,p0p020,SA,6,R2 (km),270,270,,BSSA14_Coeffs,AC6,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.02,p0p020,SA,6,DfR,0.092,0.092,,BSSA14_Coeffs,AD6,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.02,p0p020,SA,6,DfV,0.03,0.03,,BSSA14_Coeffs,AE6,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.02,p0p020,SA,6,V1 (m/s),225,225,,BSSA14_Coeffs,AF6,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.02,p0p020,SA,6,V2 (m/s),300,300,,BSSA14_Coeffs,AG6,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.02,p0p020,SA,6,f1_2,0.702,0.702,,BSSA14_Coeffs,AH6,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.02,p0p020,SA,6,f2,0.502,0.502,,BSSA14_Coeffs,AI6,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.02,p0p020,SA,6,t1,0.409,0.409,,BSSA14_Coeffs,AJ6,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.02,p0p020,SA,6,t2,0.346,0.346,,BSSA14_Coeffs,AK6,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.03,p0p030,SA,7,e0,0.56916,0.56916,,BSSA14_Coeffs,B7,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.03,p0p030,SA,7,e1,0.6092,0.6092,,BSSA14_Coeffs,C7,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.03,p0p030,SA,7,e2,0.40391,0.40391,,BSSA14_Coeffs,D7,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.03,p0p030,SA,7,e3,0.55783,0.55783,,BSSA14_Coeffs,E7,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.03,p0p030,SA,7,e4,1.4261,1.4261,,BSSA14_Coeffs,F7,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.03,p0p030,SA,7,e5,0.061444,0.061444,,BSSA14_Coeffs,G7,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.03,p0p030,SA,7,e6,-0.1669,-0.1669,,BSSA14_Coeffs,H7,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.03,p0p030,SA,7,Mh,5.5,5.5,,BSSA14_Coeffs,I7,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.03,p0p030,SA,7,c1,-1.1421,-1.1421,,BSSA14_Coeffs,J7,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.03,p0p030,SA,7,c2,0.18842,0.18842,,BSSA14_Coeffs,K7,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.03,p0p030,SA,7,c3,-0.008336,-0.008336,,BSSA14_Coeffs,L7,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.03,p0p030,SA,7,Mref,4.5,4.5,,BSSA14_Coeffs,M7,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.03,p0p030,SA,7,Rref (km),1,1,,BSSA14_Coeffs,N7,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.03,p0p030,SA,7,h (km),4.49,4.49,,BSSA14_Coeffs,O7,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.03,p0p030,SA,7,Dc3 (globalCATW),0,0,,BSSA14_Coeffs,P7,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.03,p0p030,SA,7,Dc3 (ChinaTurkey),0.00276,0.00276,,BSSA14_Coeffs,Q7,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.03,p0p030,SA,7,Dc3 (ItalyJapan),-0.00217,-0.00217,,BSSA14_Coeffs,R7,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.03,p0p030,SA,7,c,-0.5341,-0.5341,,BSSA14_Coeffs,S7,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.03,p0p030,SA,7,Vc (m/s),1502.95,1502.95,,BSSA14_Coeffs,T7,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.03,p0p030,SA,7,Vref  (m/s),760,760,,BSSA14_Coeffs,U7,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.03,p0p030,SA,7,f1,0,0,,BSSA14_Coeffs,V7,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.03,p0p030,SA,7,f3,0.1,0.1,,BSSA14_Coeffs,W7,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.03,p0p030,SA,7,f4,-0.1549,-0.1549,,BSSA14_Coeffs,X7,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.03,p0p030,SA,7,f5,-0.00735,-0.00735,,BSSA14_Coeffs,Y7,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.03,p0p030,SA,7,f6 (1/km),-9.9,-9.9,,BSSA14_Coeffs,Z7,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.03,p0p030,SA,7,f7,-9.9,-9.9,,BSSA14_Coeffs,AA7,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.03,p0p030,SA,7,R1 (km),112.13,112.13,,BSSA14_Coeffs,AB7,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.03,p0p030,SA,7,R2 (km),270,270,,BSSA14_Coeffs,AC7,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.03,p0p030,SA,7,DfR,0.081,0.081,,BSSA14_Coeffs,AD7,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.03,p0p030,SA,7,DfV,0.029,0.029,,BSSA14_Coeffs,AE7,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.03,p0p030,SA,7,V1 (m/s),225,225,,BSSA14_Coeffs,AF7,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.03,p0p030,SA,7,V2 (m/s),300,300,,BSSA14_Coeffs,AG7,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.03,p0p030,SA,7,f1_2,0.721,0.721,,BSSA14_Coeffs,AH7,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.03,p0p030,SA,7,f2,0.514,0.514,,BSSA14_Coeffs,AI7,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.03,p0p030,SA,7,t1,0.445,0.445,,BSSA14_Coeffs,AJ7,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.03,p0p030,SA,7,t2,0.364,0.364,,BSSA14_Coeffs,AK7,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.05,p0p050,SA,8,e0,0.75436,0.75436,,BSSA14_Coeffs,B8,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.05,p0p050,SA,8,e1,0.79905,0.79905,,BSSA14_Coeffs,C8,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.05,p0p050,SA,8,e2,0.60652,0.60652,,BSSA14_Coeffs,D8,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.05,p0p050,SA,8,e3,0.72726,0.72726,,BSSA14_Coeffs,E8,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.05,p0p050,SA,8,e4,1.3974,1.3974,,BSSA14_Coeffs,F8,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.05,p0p050,SA,8,e5,0.067357,0.067357,,BSSA14_Coeffs,G8,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.05,p0p050,SA,8,e6,-0.18082,-0.18082,,BSSA14_Coeffs,H8,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.05,p0p050,SA,8,Mh,5.5,5.5,,BSSA14_Coeffs,I8,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.05,p0p050,SA,8,c1,-1.1159,-1.1159,,BSSA14_Coeffs,J8,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.05,p0p050,SA,8,c2,0.18709,0.18709,,BSSA14_Coeffs,K8,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.05,p0p050,SA,8,c3,-0.009819,-0.009819,,BSSA14_Coeffs,L8,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.05,p0p050,SA,8,Mref,4.5,4.5,,BSSA14_Coeffs,M8,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.05,p0p050,SA,8,Rref (km),1,1,,BSSA14_Coeffs,N8,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.05,p0p050,SA,8,h (km),4.2,4.2,,BSSA14_Coeffs,O8,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.05,p0p050,SA,8,Dc3 (globalCATW),0,0,,BSSA14_Coeffs,P8,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.05,p0p050,SA,8,Dc3 (ChinaTurkey),0.00296,0.00296,,BSSA14_Coeffs,Q8,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.05,p0p050,SA,8,Dc3 (ItalyJapan),-0.00199,-0.00199,,BSSA14_Coeffs,R8,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.05,p0p050,SA,8,c,-0.458,-0.458,,BSSA14_Coeffs,S8,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.05,p0p050,SA,8,Vc (m/s),1501.42,1501.42,,BSSA14_Coeffs,T8,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.05,p0p050,SA,8,Vref  (m/s),760,760,,BSSA14_Coeffs,U8,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.05,p0p050,SA,8,f1,0,0,,BSSA14_Coeffs,V8,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.05,p0p050,SA,8,f3,0.1,0.1,,BSSA14_Coeffs,W8,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.05,p0p050,SA,8,f4,-0.1963,-0.1963,,BSSA14_Coeffs,X8,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.05,p0p050,SA,8,f5,-0.00647,-0.00647,,BSSA14_Coeffs,Y8,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.05,p0p050,SA,8,f6 (1/km),-9.9,-9.9,,BSSA14_Coeffs,Z8,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.05,p0p050,SA,8,f7,-9.9,-9.9,,BSSA14_Coeffs,AA8,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.05,p0p050,SA,8,R1 (km),97.93,97.93,,BSSA14_Coeffs,AB8,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.05,p0p050,SA,8,R2 (km),270,270,,BSSA14_Coeffs,AC8,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.05,p0p050,SA,8,DfR,0.063,0.063,,BSSA14_Coeffs,AD8,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.05,p0p050,SA,8,DfV,0.03,0.03,,BSSA14_Coeffs,AE8,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.05,p0p050,SA,8,V1 (m/s),225,225,,BSSA14_Coeffs,AF8,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.05,p0p050,SA,8,V2 (m/s),300,300,,BSSA14_Coeffs,AG8,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.05,p0p050,SA,8,f1_2,0.753,0.753,,BSSA14_Coeffs,AH8,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.05,p0p050,SA,8,f2,0.532,0.532,,BSSA14_Coeffs,AI8,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.05,p0p050,SA,8,t1,0.503,0.503,,BSSA14_Coeffs,AJ8,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.05,p0p050,SA,8,t2,0.426,0.426,,BSSA14_Coeffs,AK8,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.075,p0p075,SA,9,e0,0.96447,0.96447,,BSSA14_Coeffs,B9,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.075,p0p075,SA,9,e1,1.0077,1.0077,,BSSA14_Coeffs,C9,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.075,p0p075,SA,9,e2,0.77678,0.77678,,BSSA14_Coeffs,D9,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.075,p0p075,SA,9,e3,0.9563,0.9563,,BSSA14_Coeffs,E9,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.075,p0p075,SA,9,e4,1.4174,1.4174,,BSSA14_Coeffs,F9,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.075,p0p075,SA,9,e5,0.073549,0.073549,,BSSA14_Coeffs,G9,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.075,p0p075,SA,9,e6,-0.19665,-0.19665,,BSSA14_Coeffs,H9,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.075,p0p075,SA,9,Mh,5.5,5.5,,BSSA14_Coeffs,I9,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.075,p0p075,SA,9,c1,-1.0831,-1.0831,,BSSA14_Coeffs,J9,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.075,p0p075,SA,9,c2,0.18225,0.18225,,BSSA14_Coeffs,K9,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.075,p0p075,SA,9,c3,-0.01058,-0.01058,,BSSA14_Coeffs,L9,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.075,p0p075,SA,9,Mref,4.5,4.5,,BSSA14_Coeffs,M9,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.075,p0p075,SA,9,Rref (km),1,1,,BSSA14_Coeffs,N9,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.075,p0p075,SA,9,h (km),4.04,4.04,,BSSA14_Coeffs,O9,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.075,p0p075,SA,9,Dc3 (globalCATW),0,0,,BSSA14_Coeffs,P9,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.075,p0p075,SA,9,Dc3 (ChinaTurkey),0.00296,0.00296,,BSSA14_Coeffs,Q9,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.075,p0p075,SA,9,Dc3 (ItalyJapan),-0.00216,-0.00216,,BSSA14_Coeffs,R9,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.075,p0p075,SA,9,c,-0.4441,-0.4441,,BSSA14_Coeffs,S9,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.075,p0p075,SA,9,Vc (m/s),1494,1494,,BSSA14_Coeffs,T9,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.075,p0p075,SA,9,Vref  (m/s),760,760,,BSSA14_Coeffs,U9,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.075,p0p075,SA,9,f1,0,0,,BSSA14_Coeffs,V9,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.075,p0p075,SA,9,f3,0.1,0.1,,BSSA14_Coeffs,W9,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.075,p0p075,SA,9,f4,-0.2287,-0.2287,,BSSA14_Coeffs,X9,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.075,p0p075,SA,9,f5,-0.00573,-0.00573,,BSSA14_Coeffs,Y9,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.075,p0p075,SA,9,f6 (1/km),-9.9,-9.9,,BSSA14_Coeffs,Z9,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.075,p0p075,SA,9,f7,-9.9,-9.9,,BSSA14_Coeffs,AA9,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.075,p0p075,SA,9,R1 (km),85.99,85.99,,BSSA14_Coeffs,AB9,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.075,p0p075,SA,9,R2 (km),270.04,270.04,,BSSA14_Coeffs,AC9,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.075,p0p075,SA,9,DfR,0.064,0.064,,BSSA14_Coeffs,AD9,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.075,p0p075,SA,9,DfV,0.022,0.022,,BSSA14_Coeffs,AE9,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.075,p0p075,SA,9,V1 (m/s),225,225,,BSSA14_Coeffs,AF9,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.075,p0p075,SA,9,V2 (m/s),300,300,,BSSA14_Coeffs,AG9,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.075,p0p075,SA,9,f1_2,0.745,0.745,,BSSA14_Coeffs,AH9,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.075,p0p075,SA,9,f2,0.542,0.542,,BSSA14_Coeffs,AI9,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.075,p0p075,SA,9,t1,0.474,0.474,,BSSA14_Coeffs,AJ9,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.075,p0p075,SA,9,t2,0.466,0.466,,BSSA14_Coeffs,AK9,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.1,p0p100,SA,10,e0,1.1268,1.1268,,BSSA14_Coeffs,B10,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.1,p0p100,SA,10,e1,1.1669,1.1669,,BSSA14_Coeffs,C10,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.1,p0p100,SA,10,e2,0.8871,0.8871,,BSSA14_Coeffs,D10,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.1,p0p100,SA,10,e3,1.1454,1.1454,,BSSA14_Coeffs,E10,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.1,p0p100,SA,10,e4,1.4293,1.4293,,BSSA14_Coeffs,F10,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.1,p0p100,SA,10,e5,0.055231,0.055231,,BSSA14_Coeffs,G10,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.1,p0p100,SA,10,e6,-0.19838,-0.19838,,BSSA14_Coeffs,H10,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.1,p0p100,SA,10,Mh,5.54,5.54,,BSSA14_Coeffs,I10,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.1,p0p100,SA,10,c1,-1.0652,-1.0652,,BSSA14_Coeffs,J10,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.1,p0p100,SA,10,c2,0.17203,0.17203,,BSSA14_Coeffs,K10,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.1,p0p100,SA,10,c3,-0.0102,-0.0102,,BSSA14_Coeffs,L10,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.1,p0p100,SA,10,Mref,4.5,4.5,,BSSA14_Coeffs,M10,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.1,p0p100,SA,10,Rref (km),1,1,,BSSA14_Coeffs,N10,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.1,p0p100,SA,10,h (km),4.13,4.13,,BSSA14_Coeffs,O10,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.1,p0p100,SA,10,Dc3 (globalCATW),0,0,,BSSA14_Coeffs,P10,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.1,p0p100,SA,10,Dc3 (ChinaTurkey),0.00288,0.00288,,BSSA14_Coeffs,Q10,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.1,p0p100,SA,10,Dc3 (ItalyJapan),-0.00244,-0.00244,,BSSA14_Coeffs,R10,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.1,p0p100,SA,10,c,-0.4872,-0.4872,,BSSA14_Coeffs,S10,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.1,p0p100,SA,10,Vc (m/s),1479.12,1479.12,,BSSA14_Coeffs,T10,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.1,p0p100,SA,10,Vref  (m/s),760,760,,BSSA14_Coeffs,U10,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.1,p0p100,SA,10,f1,0,0,,BSSA14_Coeffs,V10,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.1,p0p100,SA,10,f3,0.1,0.1,,BSSA14_Coeffs,W10,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.1,p0p100,SA,10,f4,-0.2492,-0.2492,,BSSA14_Coeffs,X10,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.1,p0p100,SA,10,f5,-0.0056,-0.0056,,BSSA14_Coeffs,Y10,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.1,p0p100,SA,10,f6 (1/km),-9.9,-9.9,,BSSA14_Coeffs,Z10,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.1,p0p100,SA,10,f7,-9.9,-9.9,,BSSA14_Coeffs,AA10,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.1,p0p100,SA,10,R1 (km),79.59,79.59,,BSSA14_Coeffs,AB10,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.1,p0p100,SA,10,R2 (km),270.09,270.09,,BSSA14_Coeffs,AC10,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.1,p0p100,SA,10,DfR,0.087,0.087,,BSSA14_Coeffs,AD10,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.1,p0p100,SA,10,DfV,0.014,0.014,,BSSA14_Coeffs,AE10,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.1,p0p100,SA,10,V1 (m/s),225,225,,BSSA14_Coeffs,AF10,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.1,p0p100,SA,10,V2 (m/s),300,300,,BSSA14_Coeffs,AG10,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.1,p0p100,SA,10,f1_2,0.728,0.728,,BSSA14_Coeffs,AH10,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.1,p0p100,SA,10,f2,0.541,0.541,,BSSA14_Coeffs,AI10,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.1,p0p100,SA,10,t1,0.415,0.415,,BSSA14_Coeffs,AJ10,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.1,p0p100,SA,10,t2,0.458,0.458,,BSSA14_Coeffs,AK10,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.15,p0p150,SA,11,e0,1.3095,1.3095,,BSSA14_Coeffs,B11,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.15,p0p150,SA,11,e1,1.3481,1.3481,,BSSA14_Coeffs,C11,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.15,p0p150,SA,11,e2,1.0648,1.0648,,BSSA14_Coeffs,D11,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.15,p0p150,SA,11,e3,1.3324,1.3324,,BSSA14_Coeffs,E11,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.15,p0p150,SA,11,e4,1.2844,1.2844,,BSSA14_Coeffs,F11,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.15,p0p150,SA,11,e5,-0.042065,-0.042065,,BSSA14_Coeffs,G11,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.15,p0p150,SA,11,e6,-0.18234,-0.18234,,BSSA14_Coeffs,H11,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.15,p0p150,SA,11,Mh,5.74,5.74,,BSSA14_Coeffs,I11,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.15,p0p150,SA,11,c1,-1.0532,-1.0532,,BSSA14_Coeffs,J11,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.15,p0p150,SA,11,c2,0.15401,0.15401,,BSSA14_Coeffs,K11,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.15,p0p150,SA,11,c3,-0.008977,-0.008977,,BSSA14_Coeffs,L11,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.15,p0p150,SA,11,Mref,4.5,4.5,,BSSA14_Coeffs,M11,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.15,p0p150,SA,11,Rref (km),1,1,,BSSA14_Coeffs,N11,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.15,p0p150,SA,11,h (km),4.39,4.39,,BSSA14_Coeffs,O11,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.15,p0p150,SA,11,Dc3 (globalCATW),0,0,,BSSA14_Coeffs,P11,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.15,p0p150,SA,11,Dc3 (ChinaTurkey),0.00279,0.00279,,BSSA14_Coeffs,Q11,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.15,p0p150,SA,11,Dc3 (ItalyJapan),-0.00271,-0.00271,,BSSA14_Coeffs,R11,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.15,p0p150,SA,11,c,-0.5796,-0.5796,,BSSA14_Coeffs,S11,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.15,p0p150,SA,11,Vc (m/s),1442.85,1442.85,,BSSA14_Coeffs,T11,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.15,p0p150,SA,11,Vref  (m/s),760,760,,BSSA14_Coeffs,U11,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.15,p0p150,SA,11,f1,0,0,,BSSA14_Coeffs,V11,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.15,p0p150,SA,11,f3,0.1,0.1,,BSSA14_Coeffs,W11,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.15,p0p150,SA,11,f4,-0.2571,-0.2571,,BSSA14_Coeffs,X11,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.15,p0p150,SA,11,f5,-0.00585,-0.00585,,BSSA14_Coeffs,Y11,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.15,p0p150,SA,11,f6 (1/km),-9.9,-9.9,,BSSA14_Coeffs,Z11,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.15,p0p150,SA,11,f7,-9.9,-9.9,,BSSA14_Coeffs,AA11,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.15,p0p150,SA,11,R1 (km),81.33,81.33,,BSSA14_Coeffs,AB11,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.15,p0p150,SA,11,R2 (km),270.16,270.16,,BSSA14_Coeffs,AC11,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.15,p0p150,SA,11,DfR,0.12,0.12,,BSSA14_Coeffs,AD11,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.15,p0p150,SA,11,DfV,0.015,0.015,,BSSA14_Coeffs,AE11,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.15,p0p150,SA,11,V1 (m/s),225,225,,BSSA14_Coeffs,AF11,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.15,p0p150,SA,11,V2 (m/s),300,300,,BSSA14_Coeffs,AG11,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.15,p0p150,SA,11,f1_2,0.72,0.72,,BSSA14_Coeffs,AH11,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.15,p0p150,SA,11,f2,0.537,0.537,,BSSA14_Coeffs,AI11,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.15,p0p150,SA,11,t1,0.354,0.354,,BSSA14_Coeffs,AJ11,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.15,p0p150,SA,11,t2,0.388,0.388,,BSSA14_Coeffs,AK11,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.2,p0p200,SA,12,e0,1.3255,1.3255,,BSSA14_Coeffs,B12,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.2,p0p200,SA,12,e1,1.359,1.359,,BSSA14_Coeffs,C12,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.2,p0p200,SA,12,e2,1.122,1.122,,BSSA14_Coeffs,D12,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.2,p0p200,SA,12,e3,1.3414,1.3414,,BSSA14_Coeffs,E12,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.2,p0p200,SA,12,e4,1.1349,1.1349,,BSSA14_Coeffs,F12,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.2,p0p200,SA,12,e5,-0.11096,-0.11096,,BSSA14_Coeffs,G12,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.2,p0p200,SA,12,e6,-0.15852,-0.15852,,BSSA14_Coeffs,H12,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.2,p0p200,SA,12,Mh,5.92,5.92,,BSSA14_Coeffs,I12,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.2,p0p200,SA,12,c1,-1.0607,-1.0607,,BSSA14_Coeffs,J12,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.2,p0p200,SA,12,c2,0.14489,0.14489,,BSSA14_Coeffs,K12,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.2,p0p200,SA,12,c3,-0.007717,-0.007717,,BSSA14_Coeffs,L12,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.2,p0p200,SA,12,Mref,4.5,4.5,,BSSA14_Coeffs,M12,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.2,p0p200,SA,12,Rref (km),1,1,,BSSA14_Coeffs,N12,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.2,p0p200,SA,12,h (km),4.61,4.61,,BSSA14_Coeffs,O12,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.2,p0p200,SA,12,Dc3 (globalCATW),0,0,,BSSA14_Coeffs,P12,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.2,p0p200,SA,12,Dc3 (ChinaTurkey),0.00261,0.00261,,BSSA14_Coeffs,Q12,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.2,p0p200,SA,12,Dc3 (ItalyJapan),-0.00297,-0.00297,,BSSA14_Coeffs,R12,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.2,p0p200,SA,12,c,-0.6876,-0.6876,,BSSA14_Coeffs,S12,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.2,p0p200,SA,12,Vc (m/s),1392.61,1392.61,,BSSA14_Coeffs,T12,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.2,p0p200,SA,12,Vref  (m/s),760,760,,BSSA14_Coeffs,U12,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.2,p0p200,SA,12,f1,0,0,,BSSA14_Coeffs,V12,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.2,p0p200,SA,12,f3,0.1,0.1,,BSSA14_Coeffs,W12,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.2,p0p200,SA,12,f4,-0.2466,-0.2466,,BSSA14_Coeffs,X12,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.2,p0p200,SA,12,f5,-0.00614,-0.00614,,BSSA14_Coeffs,Y12,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.2,p0p200,SA,12,f6 (1/km),-9.9,-9.9,,BSSA14_Coeffs,Z12,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.2,p0p200,SA,12,f7,-9.9,-9.9,,BSSA14_Coeffs,AA12,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.2,p0p200,SA,12,R1 (km),90.91,90.91,,BSSA14_Coeffs,AB12,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.2,p0p200,SA,12,R2 (km),270,270,,BSSA14_Coeffs,AC12,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.2,p0p200,SA,12,DfR,0.136,0.136,,BSSA14_Coeffs,AD12,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.2,p0p200,SA,12,DfV,0.045,0.045,,BSSA14_Coeffs,AE12,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.2,p0p200,SA,12,V1 (m/s),225,225,,BSSA14_Coeffs,AF12,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.2,p0p200,SA,12,V2 (m/s),300,300,,BSSA14_Coeffs,AG12,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.2,p0p200,SA,12,f1_2,0.711,0.711,,BSSA14_Coeffs,AH12,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.2,p0p200,SA,12,f2,0.539,0.539,,BSSA14_Coeffs,AI12,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.2,p0p200,SA,12,t1,0.344,0.344,,BSSA14_Coeffs,AJ12,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.2,p0p200,SA,12,t2,0.309,0.309,,BSSA14_Coeffs,AK12,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.25,p0p250,SA,13,e0,1.2766,1.2766,,BSSA14_Coeffs,B13,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.25,p0p250,SA,13,e1,1.3017,1.3017,,BSSA14_Coeffs,C13,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.25,p0p250,SA,13,e2,1.0828,1.0828,,BSSA14_Coeffs,D13,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.25,p0p250,SA,13,e3,1.3052,1.3052,,BSSA14_Coeffs,E13,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.25,p0p250,SA,13,e4,1.0166,1.0166,,BSSA14_Coeffs,F13,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.25,p0p250,SA,13,e5,-0.16213,-0.16213,,BSSA14_Coeffs,G13,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.25,p0p250,SA,13,e6,-0.12784,-0.12784,,BSSA14_Coeffs,H13,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.25,p0p250,SA,13,Mh,6.05,6.05,,BSSA14_Coeffs,I13,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.25,p0p250,SA,13,c1,-1.0773,-1.0773,,BSSA14_Coeffs,J13,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.25,p0p250,SA,13,c2,0.13925,0.13925,,BSSA14_Coeffs,K13,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.25,p0p250,SA,13,c3,-0.006517,-0.006517,,BSSA14_Coeffs,L13,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.25,p0p250,SA,13,Mref,4.5,4.5,,BSSA14_Coeffs,M13,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.25,p0p250,SA,13,Rref (km),1,1,,BSSA14_Coeffs,N13,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.25,p0p250,SA,13,h (km),4.78,4.78,,BSSA14_Coeffs,O13,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.25,p0p250,SA,13,Dc3 (globalCATW),0,0,,BSSA14_Coeffs,P13,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.25,p0p250,SA,13,Dc3 (ChinaTurkey),0.00244,0.00244,,BSSA14_Coeffs,Q13,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.25,p0p250,SA,13,Dc3 (ItalyJapan),-0.00314,-0.00314,,BSSA14_Coeffs,R13,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.25,p0p250,SA,13,c,-0.7718,-0.7718,,BSSA14_Coeffs,S13,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.25,p0p250,SA,13,Vc (m/s),1356.21,1356.21,,BSSA14_Coeffs,T13,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.25,p0p250,SA,13,Vref  (m/s),760,760,,BSSA14_Coeffs,U13,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.25,p0p250,SA,13,f1,0,0,,BSSA14_Coeffs,V13,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.25,p0p250,SA,13,f3,0.1,0.1,,BSSA14_Coeffs,W13,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.25,p0p250,SA,13,f4,-0.2357,-0.2357,,BSSA14_Coeffs,X13,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.25,p0p250,SA,13,f5,-0.00644,-0.00644,,BSSA14_Coeffs,Y13,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.25,p0p250,SA,13,f6 (1/km),-9.9,-9.9,,BSSA14_Coeffs,Z13,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.25,p0p250,SA,13,f7,-9.9,-9.9,,BSSA14_Coeffs,AA13,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.25,p0p250,SA,13,R1 (km),97.04,97.04,,BSSA14_Coeffs,AB13,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.25,p0p250,SA,13,R2 (km),269.45,269.45,,BSSA14_Coeffs,AC13,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.25,p0p250,SA,13,DfR,0.141,0.141,,BSSA14_Coeffs,AD13,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.25,p0p250,SA,13,DfV,0.055,0.055,,BSSA14_Coeffs,AE13,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.25,p0p250,SA,13,V1 (m/s),225,225,,BSSA14_Coeffs,AF13,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.25,p0p250,SA,13,V2 (m/s),300,300,,BSSA14_Coeffs,AG13,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.25,p0p250,SA,13,f1_2,0.698,0.698,,BSSA14_Coeffs,AH13,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.25,p0p250,SA,13,f2,0.547,0.547,,BSSA14_Coeffs,AI13,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.25,p0p250,SA,13,t1,0.35,0.35,,BSSA14_Coeffs,AJ13,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.25,p0p250,SA,13,t2,0.266,0.266,,BSSA14_Coeffs,AK13,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.3,p0p300,SA,14,e0,1.2217,1.2217,,BSSA14_Coeffs,B14,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.3,p0p300,SA,14,e1,1.2401,1.2401,,BSSA14_Coeffs,C14,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.3,p0p300,SA,14,e2,1.0246,1.0246,,BSSA14_Coeffs,D14,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.3,p0p300,SA,14,e3,1.2653,1.2653,,BSSA14_Coeffs,E14,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.3,p0p300,SA,14,e4,0.95676,0.95676,,BSSA14_Coeffs,F14,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.3,p0p300,SA,14,e5,-0.1959,-0.1959,,BSSA14_Coeffs,G14,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.3,p0p300,SA,14,e6,-0.092855,-0.092855,,BSSA14_Coeffs,H14,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.3,p0p300,SA,14,Mh,6.14,6.14,,BSSA14_Coeffs,I14,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.3,p0p300,SA,14,c1,-1.0948,-1.0948,,BSSA14_Coeffs,J14,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.3,p0p300,SA,14,c2,0.13388,0.13388,,BSSA14_Coeffs,K14,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.3,p0p300,SA,14,c3,-0.005475,-0.005475,,BSSA14_Coeffs,L14,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.3,p0p300,SA,14,Mref,4.5,4.5,,BSSA14_Coeffs,M14,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.3,p0p300,SA,14,Rref (km),1,1,,BSSA14_Coeffs,N14,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.3,p0p300,SA,14,h (km),4.93,4.93,,BSSA14_Coeffs,O14,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.3,p0p300,SA,14,Dc3 (globalCATW),0,0,,BSSA14_Coeffs,P14,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.3,p0p300,SA,14,Dc3 (ChinaTurkey),0.0022,0.0022,,BSSA14_Coeffs,Q14,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.3,p0p300,SA,14,Dc3 (ItalyJapan),-0.0033,-0.0033,,BSSA14_Coeffs,R14,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.3,p0p300,SA,14,c,-0.8417,-0.8417,,BSSA14_Coeffs,S14,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.3,p0p300,SA,14,Vc (m/s),1308.47,1308.47,,BSSA14_Coeffs,T14,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.3,p0p300,SA,14,Vref  (m/s),760,760,,BSSA14_Coeffs,U14,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.3,p0p300,SA,14,f1,0,0,,BSSA14_Coeffs,V14,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.3,p0p300,SA,14,f3,0.1,0.1,,BSSA14_Coeffs,W14,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.3,p0p300,SA,14,f4,-0.2191,-0.2191,,BSSA14_Coeffs,X14,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.3,p0p300,SA,14,f5,-0.0067,-0.0067,,BSSA14_Coeffs,Y14,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.3,p0p300,SA,14,f6 (1/km),-9.9,-9.9,,BSSA14_Coeffs,Z14,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.3,p0p300,SA,14,f7,-9.9,-9.9,,BSSA14_Coeffs,AA14,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.3,p0p300,SA,14,R1 (km),103.15,103.15,,BSSA14_Coeffs,AB14,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.3,p0p300,SA,14,R2 (km),268.59,268.59,,BSSA14_Coeffs,AC14,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.3,p0p300,SA,14,DfR,0.138,0.138,,BSSA14_Coeffs,AD14,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.3,p0p300,SA,14,DfV,0.05,0.05,,BSSA14_Coeffs,AE14,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.3,p0p300,SA,14,V1 (m/s),225,225,,BSSA14_Coeffs,AF14,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.3,p0p300,SA,14,V2 (m/s),300,300,,BSSA14_Coeffs,AG14,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.3,p0p300,SA,14,f1_2,0.675,0.675,,BSSA14_Coeffs,AH14,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.3,p0p300,SA,14,f2,0.561,0.561,,BSSA14_Coeffs,AI14,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.3,p0p300,SA,14,t1,0.363,0.363,,BSSA14_Coeffs,AJ14,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.3,p0p300,SA,14,t2,0.229,0.229,,BSSA14_Coeffs,AK14,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.4,p0p400,SA,15,e0,1.1046,1.1046,,BSSA14_Coeffs,B15,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.4,p0p400,SA,15,e1,1.1214,1.1214,,BSSA14_Coeffs,C15,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.4,p0p400,SA,15,e2,0.89765,0.89765,,BSSA14_Coeffs,D15,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.4,p0p400,SA,15,e3,1.1552,1.1552,,BSSA14_Coeffs,E15,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.4,p0p400,SA,15,e4,0.96766,0.96766,,BSSA14_Coeffs,F15,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.4,p0p400,SA,15,e5,-0.22608,-0.22608,,BSSA14_Coeffs,G15,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.4,p0p400,SA,15,e6,-0.023189,-0.023189,,BSSA14_Coeffs,H15,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.4,p0p400,SA,15,Mh,6.2,6.2,,BSSA14_Coeffs,I15,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.4,p0p400,SA,15,c1,-1.1243,-1.1243,,BSSA14_Coeffs,J15,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.4,p0p400,SA,15,c2,0.12512,0.12512,,BSSA14_Coeffs,K15,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.4,p0p400,SA,15,c3,-0.004053,-0.004053,,BSSA14_Coeffs,L15,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.4,p0p400,SA,15,Mref,4.5,4.5,,BSSA14_Coeffs,M15,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.4,p0p400,SA,15,Rref (km),1,1,,BSSA14_Coeffs,N15,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.4,p0p400,SA,15,h (km),5.16,5.16,,BSSA14_Coeffs,O15,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.4,p0p400,SA,15,Dc3 (globalCATW),0,0,,BSSA14_Coeffs,P15,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.4,p0p400,SA,15,Dc3 (ChinaTurkey),0.00211,0.00211,,BSSA14_Coeffs,Q15,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.4,p0p400,SA,15,Dc3 (ItalyJapan),-0.00321,-0.00321,,BSSA14_Coeffs,R15,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.4,p0p400,SA,15,c,-0.9109,-0.9109,,BSSA14_Coeffs,S15,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.4,p0p400,SA,15,Vc (m/s),1252.66,1252.66,,BSSA14_Coeffs,T15,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.4,p0p400,SA,15,Vref  (m/s),760,760,,BSSA14_Coeffs,U15,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.4,p0p400,SA,15,f1,0,0,,BSSA14_Coeffs,V15,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.4,p0p400,SA,15,f3,0.1,0.1,,BSSA14_Coeffs,W15,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.4,p0p400,SA,15,f4,-0.1958,-0.1958,,BSSA14_Coeffs,X15,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.4,p0p400,SA,15,f5,-0.00713,-0.00713,,BSSA14_Coeffs,Y15,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.4,p0p400,SA,15,f6 (1/km),-9.9,-9.9,,BSSA14_Coeffs,Z15,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.4,p0p400,SA,15,f7,-9.9,-9.9,,BSSA14_Coeffs,AA15,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.4,p0p400,SA,15,R1 (km),106.02,106.02,,BSSA14_Coeffs,AB15,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.4,p0p400,SA,15,R2 (km),266.54,266.54,,BSSA14_Coeffs,AC15,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.4,p0p400,SA,15,DfR,0.122,0.122,,BSSA14_Coeffs,AD15,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.4,p0p400,SA,15,DfV,0.049,0.049,,BSSA14_Coeffs,AE15,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.4,p0p400,SA,15,V1 (m/s),225,225,,BSSA14_Coeffs,AF15,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.4,p0p400,SA,15,V2 (m/s),300,300,,BSSA14_Coeffs,AG15,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.4,p0p400,SA,15,f1_2,0.643,0.643,,BSSA14_Coeffs,AH15,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.4,p0p400,SA,15,f2,0.58,0.58,,BSSA14_Coeffs,AI15,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.4,p0p400,SA,15,t1,0.381,0.381,,BSSA14_Coeffs,AJ15,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.4,p0p400,SA,15,t2,0.21,0.21,,BSSA14_Coeffs,AK15,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.5,p0p500,SA,16,e0,0.96991,0.96991,,BSSA14_Coeffs,B16,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.5,p0p500,SA,16,e1,0.99106,0.99106,,BSSA14_Coeffs,C16,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.5,p0p500,SA,16,e2,0.7615,0.7615,,BSSA14_Coeffs,D16,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.5,p0p500,SA,16,e3,1.012,1.012,,BSSA14_Coeffs,E16,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.5,p0p500,SA,16,e4,1.0384,1.0384,,BSSA14_Coeffs,F16,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.5,p0p500,SA,16,e5,-0.23522,-0.23522,,BSSA14_Coeffs,G16,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.5,p0p500,SA,16,e6,0.029119,0.029119,,BSSA14_Coeffs,H16,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.5,p0p500,SA,16,Mh,6.2,6.2,,BSSA14_Coeffs,I16,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.5,p0p500,SA,16,c1,-1.1459,-1.1459,,BSSA14_Coeffs,J16,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.5,p0p500,SA,16,c2,0.12015,0.12015,,BSSA14_Coeffs,K16,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.5,p0p500,SA,16,c3,-0.00322,-0.00322,,BSSA14_Coeffs,L16,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.5,p0p500,SA,16,Mref,4.5,4.5,,BSSA14_Coeffs,M16,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.5,p0p500,SA,16,Rref (km),1,1,,BSSA14_Coeffs,N16,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.5,p0p500,SA,16,h (km),5.34,5.34,,BSSA14_Coeffs,O16,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.5,p0p500,SA,16,Dc3 (globalCATW),0,0,,BSSA14_Coeffs,P16,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.5,p0p500,SA,16,Dc3 (ChinaTurkey),0.00235,0.00235,,BSSA14_Coeffs,Q16,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.5,p0p500,SA,16,Dc3 (ItalyJapan),-0.00291,-0.00291,,BSSA14_Coeffs,R16,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.5,p0p500,SA,16,c,-0.9693,-0.9693,,BSSA14_Coeffs,S16,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.5,p0p500,SA,16,Vc (m/s),1203.91,1203.91,,BSSA14_Coeffs,T16,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.5,p0p500,SA,16,Vref  (m/s),760,760,,BSSA14_Coeffs,U16,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.5,p0p500,SA,16,f1,0,0,,BSSA14_Coeffs,V16,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.5,p0p500,SA,16,f3,0.1,0.1,,BSSA14_Coeffs,W16,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.5,p0p500,SA,16,f4,-0.1704,-0.1704,,BSSA14_Coeffs,X16,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.5,p0p500,SA,16,f5,-0.00744,-0.00744,,BSSA14_Coeffs,Y16,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.5,p0p500,SA,16,f6 (1/km),-9.9,-9.9,,BSSA14_Coeffs,Z16,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.5,p0p500,SA,16,f7,-9.9,-9.9,,BSSA14_Coeffs,AA16,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.5,p0p500,SA,16,R1 (km),105.54,105.54,,BSSA14_Coeffs,AB16,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.5,p0p500,SA,16,R2 (km),265,265,,BSSA14_Coeffs,AC16,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.5,p0p500,SA,16,DfR,0.109,0.109,,BSSA14_Coeffs,AD16,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.5,p0p500,SA,16,DfV,0.06,0.06,,BSSA14_Coeffs,AE16,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.5,p0p500,SA,16,V1 (m/s),225,225,,BSSA14_Coeffs,AF16,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.5,p0p500,SA,16,V2 (m/s),300,300,,BSSA14_Coeffs,AG16,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.5,p0p500,SA,16,f1_2,0.615,0.615,,BSSA14_Coeffs,AH16,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.5,p0p500,SA,16,f2,0.599,0.599,,BSSA14_Coeffs,AI16,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.5,p0p500,SA,16,t1,0.41,0.41,,BSSA14_Coeffs,AJ16,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.5,p0p500,SA,16,t2,0.224,0.224,,BSSA14_Coeffs,AK16,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.75,p0p750,SA,17,e0,0.66903,0.66903,,BSSA14_Coeffs,B17,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.75,p0p750,SA,17,e1,0.69737,0.69737,,BSSA14_Coeffs,C17,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.75,p0p750,SA,17,e2,0.47523,0.47523,,BSSA14_Coeffs,D17,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.75,p0p750,SA,17,e3,0.69173,0.69173,,BSSA14_Coeffs,E17,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.75,p0p750,SA,17,e4,1.2871,1.2871,,BSSA14_Coeffs,F17,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.75,p0p750,SA,17,e5,-0.21591,-0.21591,,BSSA14_Coeffs,G17,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.75,p0p750,SA,17,e6,0.10829,0.10829,,BSSA14_Coeffs,H17,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.75,p0p750,SA,17,Mh,6.2,6.2,,BSSA14_Coeffs,I17,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.75,p0p750,SA,17,c1,-1.1777,-1.1777,,BSSA14_Coeffs,J17,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.75,p0p750,SA,17,c2,0.11054,0.11054,,BSSA14_Coeffs,K17,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.75,p0p750,SA,17,c3,-0.001931,-0.001931,,BSSA14_Coeffs,L17,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.75,p0p750,SA,17,Mref,4.5,4.5,,BSSA14_Coeffs,M17,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.75,p0p750,SA,17,Rref (km),1,1,,BSSA14_Coeffs,N17,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.75,p0p750,SA,17,h (km),5.6,5.6,,BSSA14_Coeffs,O17,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.75,p0p750,SA,17,Dc3 (globalCATW),0,0,,BSSA14_Coeffs,P17,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.75,p0p750,SA,17,Dc3 (ChinaTurkey),0.00269,0.00269,,BSSA14_Coeffs,Q17,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.75,p0p750,SA,17,Dc3 (ItalyJapan),-0.00253,-0.00253,,BSSA14_Coeffs,R17,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.75,p0p750,SA,17,c,-1.0154,-1.0154,,BSSA14_Coeffs,S17,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.75,p0p750,SA,17,Vc (m/s),1147.59,1147.59,,BSSA14_Coeffs,T17,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.75,p0p750,SA,17,Vref  (m/s),760,760,,BSSA14_Coeffs,U17,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.75,p0p750,SA,17,f1,0,0,,BSSA14_Coeffs,V17,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.75,p0p750,SA,17,f3,0.1,0.1,,BSSA14_Coeffs,W17,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.75,p0p750,SA,17,f4,-0.1387,-0.1387,,BSSA14_Coeffs,X17,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.75,p0p750,SA,17,f5,-0.00812,-0.00812,,BSSA14_Coeffs,Y17,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.75,p0p750,SA,17,f6 (1/km),0.092,0.092,,BSSA14_Coeffs,Z17,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.75,p0p750,SA,17,f7,0.059,0.059,,BSSA14_Coeffs,AA17,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.75,p0p750,SA,17,R1 (km),108.39,108.39,,BSSA14_Coeffs,AB17,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.75,p0p750,SA,17,R2 (km),266.51,266.51,,BSSA14_Coeffs,AC17,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.75,p0p750,SA,17,DfR,0.1,0.1,,BSSA14_Coeffs,AD17,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.75,p0p750,SA,17,DfV,0.07,0.07,,BSSA14_Coeffs,AE17,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.75,p0p750,SA,17,V1 (m/s),225,225,,BSSA14_Coeffs,AF17,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.75,p0p750,SA,17,V2 (m/s),300,300,,BSSA14_Coeffs,AG17,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.75,p0p750,SA,17,f1_2,0.581,0.581,,BSSA14_Coeffs,AH17,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.75,p0p750,SA,17,f2,0.622,0.622,,BSSA14_Coeffs,AI17,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.75,p0p750,SA,17,t1,0.457,0.457,,BSSA14_Coeffs,AJ17,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.75,p0p750,SA,17,t2,0.266,0.266,,BSSA14_Coeffs,AK17,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.0,p1p000,SA,18,e0,0.3932,0.3932,,BSSA14_Coeffs,B18,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.0,p1p000,SA,18,e1,0.4218,0.4218,,BSSA14_Coeffs,C18,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.0,p1p000,SA,18,e2,0.207,0.207,,BSSA14_Coeffs,D18,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.0,p1p000,SA,18,e3,0.4124,0.4124,,BSSA14_Coeffs,E18,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.0,p1p000,SA,18,e4,1.5004,1.5004,,BSSA14_Coeffs,F18,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.0,p1p000,SA,18,e5,-0.18983,-0.18983,,BSSA14_Coeffs,G18,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.0,p1p000,SA,18,e6,0.17895,0.17895,,BSSA14_Coeffs,H18,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.0,p1p000,SA,18,Mh,6.2,6.2,,BSSA14_Coeffs,I18,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.0,p1p000,SA,18,c1,-1.193,-1.193,,BSSA14_Coeffs,J18,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.0,p1p000,SA,18,c2,0.10248,0.10248,,BSSA14_Coeffs,K18,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.0,p1p000,SA,18,c3,-0.00121,-0.00121,,BSSA14_Coeffs,L18,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.0,p1p000,SA,18,Mref,4.5,4.5,,BSSA14_Coeffs,M18,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.0,p1p000,SA,18,Rref (km),1,1,,BSSA14_Coeffs,N18,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.0,p1p000,SA,18,h (km),5.74,5.74,,BSSA14_Coeffs,O18,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.0,p1p000,SA,18,Dc3 (globalCATW),0,0,,BSSA14_Coeffs,P18,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.0,p1p000,SA,18,Dc3 (ChinaTurkey),0.00292,0.00292,,BSSA14_Coeffs,Q18,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.0,p1p000,SA,18,Dc3 (ItalyJapan),-0.00209,-0.00209,,BSSA14_Coeffs,R18,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.0,p1p000,SA,18,c,-1.05,-1.05,,BSSA14_Coeffs,S18,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.0,p1p000,SA,18,Vc (m/s),1109.95,1109.95,,BSSA14_Coeffs,T18,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.0,p1p000,SA,18,Vref  (m/s),760,760,,BSSA14_Coeffs,U18,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.0,p1p000,SA,18,f1,0,0,,BSSA14_Coeffs,V18,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.0,p1p000,SA,18,f3,0.1,0.1,,BSSA14_Coeffs,W18,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.0,p1p000,SA,18,f4,-0.1052,-0.1052,,BSSA14_Coeffs,X18,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.0,p1p000,SA,18,f5,-0.00844,-0.00844,,BSSA14_Coeffs,Y18,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.0,p1p000,SA,18,f6 (1/km),0.367,0.367,,BSSA14_Coeffs,Z18,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.0,p1p000,SA,18,f7,0.208,0.208,,BSSA14_Coeffs,AA18,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.0,p1p000,SA,18,R1 (km),116.39,116.39,,BSSA14_Coeffs,AB18,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.0,p1p000,SA,18,R2 (km),270,270,,BSSA14_Coeffs,AC18,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.0,p1p000,SA,18,DfR,0.098,0.098,,BSSA14_Coeffs,AD18,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.0,p1p000,SA,18,DfV,0.02,0.02,,BSSA14_Coeffs,AE18,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.0,p1p000,SA,18,V1 (m/s),225,225,,BSSA14_Coeffs,AF18,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.0,p1p000,SA,18,V2 (m/s),300,300,,BSSA14_Coeffs,AG18,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.0,p1p000,SA,18,f1_2,0.553,0.553,,BSSA14_Coeffs,AH18,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.0,p1p000,SA,18,f2,0.625,0.625,,BSSA14_Coeffs,AI18,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.0,p1p000,SA,18,t1,0.498,0.498,,BSSA14_Coeffs,AJ18,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.0,p1p000,SA,18,t2,0.298,0.298,,BSSA14_Coeffs,AK18,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.5,p1p500,SA,19,e0,-0.14954,-0.14954,,BSSA14_Coeffs,B19,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.5,p1p500,SA,19,e1,-0.11866,-0.11866,,BSSA14_Coeffs,C19,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.5,p1p500,SA,19,e2,-0.3138,-0.3138,,BSSA14_Coeffs,D19,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.5,p1p500,SA,19,e3,-0.1437,-0.1437,,BSSA14_Coeffs,E19,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.5,p1p500,SA,19,e4,1.7622,1.7622,,BSSA14_Coeffs,F19,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.5,p1p500,SA,19,e5,-0.1467,-0.1467,,BSSA14_Coeffs,G19,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.5,p1p500,SA,19,e6,0.33896,0.33896,,BSSA14_Coeffs,H19,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.5,p1p500,SA,19,Mh,6.2,6.2,,BSSA14_Coeffs,I19,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.5,p1p500,SA,19,c1,-1.2063,-1.2063,,BSSA14_Coeffs,J19,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.5,p1p500,SA,19,c2,0.09645,0.09645,,BSSA14_Coeffs,K19,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.5,p1p500,SA,19,c3,-0.000365,-0.000365,,BSSA14_Coeffs,L19,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.5,p1p500,SA,19,Mref,4.5,4.5,,BSSA14_Coeffs,M19,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.5,p1p500,SA,19,Rref (km),1,1,,BSSA14_Coeffs,N19,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.5,p1p500,SA,19,h (km),6.18,6.18,,BSSA14_Coeffs,O19,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.5,p1p500,SA,19,Dc3 (globalCATW),0,0,,BSSA14_Coeffs,P19,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.5,p1p500,SA,19,Dc3 (ChinaTurkey),0.00304,0.00304,,BSSA14_Coeffs,Q19,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.5,p1p500,SA,19,Dc3 (ItalyJapan),-0.00152,-0.00152,,BSSA14_Coeffs,R19,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.5,p1p500,SA,19,c,-1.0454,-1.0454,,BSSA14_Coeffs,S19,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.5,p1p500,SA,19,Vc (m/s),1072.39,1072.39,,BSSA14_Coeffs,T19,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.5,p1p500,SA,19,Vref  (m/s),760,760,,BSSA14_Coeffs,U19,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.5,p1p500,SA,19,f1,0,0,,BSSA14_Coeffs,V19,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.5,p1p500,SA,19,f3,0.1,0.1,,BSSA14_Coeffs,W19,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.5,p1p500,SA,19,f4,-0.0679,-0.0679,,BSSA14_Coeffs,X19,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.5,p1p500,SA,19,f5,-0.00771,-0.00771,,BSSA14_Coeffs,Y19,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.5,p1p500,SA,19,f6 (1/km),0.638,0.638,,BSSA14_Coeffs,Z19,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.5,p1p500,SA,19,f7,0.309,0.309,,BSSA14_Coeffs,AA19,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.5,p1p500,SA,19,R1 (km),125.38,125.38,,BSSA14_Coeffs,AB19,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.5,p1p500,SA,19,R2 (km),262.41,262.41,,BSSA14_Coeffs,AC19,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.5,p1p500,SA,19,DfR,0.104,0.104,,BSSA14_Coeffs,AD19,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.5,p1p500,SA,19,DfV,0.01,0.01,,BSSA14_Coeffs,AE19,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.5,p1p500,SA,19,V1 (m/s),225,225,,BSSA14_Coeffs,AF19,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.5,p1p500,SA,19,V2 (m/s),300,300,,BSSA14_Coeffs,AG19,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.5,p1p500,SA,19,f1_2,0.532,0.532,,BSSA14_Coeffs,AH19,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.5,p1p500,SA,19,f2,0.619,0.619,,BSSA14_Coeffs,AI19,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.5,p1p500,SA,19,t1,0.525,0.525,,BSSA14_Coeffs,AJ19,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,1.5,p1p500,SA,19,t2,0.315,0.315,,BSSA14_Coeffs,AK19,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,2.0,p2p000,SA,20,e0,-0.58669,-0.58669,,BSSA14_Coeffs,B20,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,2.0,p2p000,SA,20,e1,-0.55003,-0.55003,,BSSA14_Coeffs,C20,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,2.0,p2p000,SA,20,e2,-0.71466,-0.71466,,BSSA14_Coeffs,D20,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,2.0,p2p000,SA,20,e3,-0.60658,-0.60658,,BSSA14_Coeffs,E20,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,2.0,p2p000,SA,20,e4,1.9152,1.9152,,BSSA14_Coeffs,F20,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,2.0,p2p000,SA,20,e5,-0.11237,-0.11237,,BSSA14_Coeffs,G20,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,2.0,p2p000,SA,20,e6,0.44788,0.44788,,BSSA14_Coeffs,H20,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,2.0,p2p000,SA,20,Mh,6.2,6.2,,BSSA14_Coeffs,I20,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,2.0,p2p000,SA,20,c1,-1.2159,-1.2159,,BSSA14_Coeffs,J20,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,2.0,p2p000,SA,20,c2,0.09636,0.09636,,BSSA14_Coeffs,K20,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,2.0,p2p000,SA,20,c3,0,0,,BSSA14_Coeffs,L20,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,2.0,p2p000,SA,20,Mref,4.5,4.5,,BSSA14_Coeffs,M20,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,2.0,p2p000,SA,20,Rref (km),1,1,,BSSA14_Coeffs,N20,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,2.0,p2p000,SA,20,h (km),6.54,6.54,,BSSA14_Coeffs,O20,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,2.0,p2p000,SA,20,Dc3 (globalCATW),0,0,,BSSA14_Coeffs,P20,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,2.0,p2p000,SA,20,Dc3 (ChinaTurkey),0.00292,0.00292,,BSSA14_Coeffs,Q20,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,2.0,p2p000,SA,20,Dc3 (ItalyJapan),-0.00117,-0.00117,,BSSA14_Coeffs,R20,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,2.0,p2p000,SA,20,c,-1.0392,-1.0392,,BSSA14_Coeffs,S20,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,2.0,p2p000,SA,20,Vc (m/s),1009.49,1009.49,,BSSA14_Coeffs,T20,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,2.0,p2p000,SA,20,Vref  (m/s),760,760,,BSSA14_Coeffs,U20,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,2.0,p2p000,SA,20,f1,0,0,,BSSA14_Coeffs,V20,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,2.0,p2p000,SA,20,f3,0.1,0.1,,BSSA14_Coeffs,W20,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,2.0,p2p000,SA,20,f4,-0.0361,-0.0361,,BSSA14_Coeffs,X20,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,2.0,p2p000,SA,20,f5,-0.00479,-0.00479,,BSSA14_Coeffs,Y20,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,2.0,p2p000,SA,20,f6 (1/km),0.871,0.871,,BSSA14_Coeffs,Z20,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,2.0,p2p000,SA,20,f7,0.382,0.382,,BSSA14_Coeffs,AA20,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,2.0,p2p000,SA,20,R1 (km),130.37,130.37,,BSSA14_Coeffs,AB20,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,2.0,p2p000,SA,20,R2 (km),240.14,240.14,,BSSA14_Coeffs,AC20,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,2.0,p2p000,SA,20,DfR,0.105,0.105,,BSSA14_Coeffs,AD20,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,2.0,p2p000,SA,20,DfV,0.008,0.008,,BSSA14_Coeffs,AE20,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,2.0,p2p000,SA,20,V1 (m/s),225,225,,BSSA14_Coeffs,AF20,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,2.0,p2p000,SA,20,V2 (m/s),300,300,,BSSA14_Coeffs,AG20,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,2.0,p2p000,SA,20,f1_2,0.526,0.526,,BSSA14_Coeffs,AH20,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,2.0,p2p000,SA,20,f2,0.618,0.618,,BSSA14_Coeffs,AI20,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,2.0,p2p000,SA,20,t1,0.532,0.532,,BSSA14_Coeffs,AJ20,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,2.0,p2p000,SA,20,t2,0.329,0.329,,BSSA14_Coeffs,AK20,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,3.0,p3p000,SA,21,e0,-1.1898,-1.1898,,BSSA14_Coeffs,B21,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,3.0,p3p000,SA,21,e1,-1.142,-1.142,,BSSA14_Coeffs,C21,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,3.0,p3p000,SA,21,e2,-1.23,-1.23,,BSSA14_Coeffs,D21,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,3.0,p3p000,SA,21,e3,-1.2664,-1.2664,,BSSA14_Coeffs,E21,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,3.0,p3p000,SA,21,e4,2.1323,2.1323,,BSSA14_Coeffs,F21,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,3.0,p3p000,SA,21,e5,-0.04332,-0.04332,,BSSA14_Coeffs,G21,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,3.0,p3p000,SA,21,e6,0.62694,0.62694,,BSSA14_Coeffs,H21,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,3.0,p3p000,SA,21,Mh,6.2,6.2,,BSSA14_Coeffs,I21,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,3.0,p3p000,SA,21,c1,-1.2179,-1.2179,,BSSA14_Coeffs,J21,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,3.0,p3p000,SA,21,c2,0.09764,0.09764,,BSSA14_Coeffs,K21,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,3.0,p3p000,SA,21,c3,0,0,,BSSA14_Coeffs,L21,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,3.0,p3p000,SA,21,Mref,4.5,4.5,,BSSA14_Coeffs,M21,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,3.0,p3p000,SA,21,Rref (km),1,1,,BSSA14_Coeffs,N21,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,3.0,p3p000,SA,21,h (km),6.93,6.93,,BSSA14_Coeffs,O21,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,3.0,p3p000,SA,21,Dc3 (globalCATW),0,0,,BSSA14_Coeffs,P21,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,3.0,p3p000,SA,21,Dc3 (ChinaTurkey),0.00262,0.00262,,BSSA14_Coeffs,Q21,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,3.0,p3p000,SA,21,Dc3 (ItalyJapan),-0.00119,-0.00119,,BSSA14_Coeffs,R21,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,3.0,p3p000,SA,21,c,-1.0112,-1.0112,,BSSA14_Coeffs,S21,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,3.0,p3p000,SA,21,Vc (m/s),922.43,922.43,,BSSA14_Coeffs,T21,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,3.0,p3p000,SA,21,Vref  (m/s),760,760,,BSSA14_Coeffs,U21,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,3.0,p3p000,SA,21,f1,0,0,,BSSA14_Coeffs,V21,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,3.0,p3p000,SA,21,f3,0.1,0.1,,BSSA14_Coeffs,W21,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,3.0,p3p000,SA,21,f4,-0.0136,-0.0136,,BSSA14_Coeffs,X21,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,3.0,p3p000,SA,21,f5,-0.00183,-0.00183,,BSSA14_Coeffs,Y21,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,3.0,p3p000,SA,21,f6 (1/km),1.135,1.135,,BSSA14_Coeffs,Z21,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,3.0,p3p000,SA,21,f7,0.516,0.516,,BSSA14_Coeffs,AA21,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,3.0,p3p000,SA,21,R1 (km),130.36,130.36,,BSSA14_Coeffs,AB21,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,3.0,p3p000,SA,21,R2 (km),195,195,,BSSA14_Coeffs,AC21,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,3.0,p3p000,SA,21,DfR,0.088,0.088,,BSSA14_Coeffs,AD21,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,3.0,p3p000,SA,21,DfV,0,0,,BSSA14_Coeffs,AE21,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,3.0,p3p000,SA,21,V1 (m/s),225,225,,BSSA14_Coeffs,AF21,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,3.0,p3p000,SA,21,V2 (m/s),300,300,,BSSA14_Coeffs,AG21,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,3.0,p3p000,SA,21,f1_2,0.534,0.534,,BSSA14_Coeffs,AH21,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,3.0,p3p000,SA,21,f2,0.619,0.619,,BSSA14_Coeffs,AI21,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,3.0,p3p000,SA,21,t1,0.537,0.537,,BSSA14_Coeffs,AJ21,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,3.0,p3p000,SA,21,t2,0.344,0.344,,BSSA14_Coeffs,AK21,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,4.0,p4p000,SA,22,e0,-1.6388,-1.6388,,BSSA14_Coeffs,B22,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,4.0,p4p000,SA,22,e1,-1.5748,-1.5748,,BSSA14_Coeffs,C22,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,4.0,p4p000,SA,22,e2,-1.6673,-1.6673,,BSSA14_Coeffs,D22,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,4.0,p4p000,SA,22,e3,-1.7516,-1.7516,,BSSA14_Coeffs,E22,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,4.0,p4p000,SA,22,e4,2.204,2.204,,BSSA14_Coeffs,F22,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,4.0,p4p000,SA,22,e5,-0.014642,-0.014642,,BSSA14_Coeffs,G22,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,4.0,p4p000,SA,22,e6,0.76303,0.76303,,BSSA14_Coeffs,H22,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,4.0,p4p000,SA,22,Mh,6.2,6.2,,BSSA14_Coeffs,I22,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,4.0,p4p000,SA,22,c1,-1.2162,-1.2162,,BSSA14_Coeffs,J22,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,4.0,p4p000,SA,22,c2,0.10218,0.10218,,BSSA14_Coeffs,K22,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,4.0,p4p000,SA,22,c3,-5.2e-05,-5.2e-05,,BSSA14_Coeffs,L22,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,4.0,p4p000,SA,22,Mref,4.5,4.5,,BSSA14_Coeffs,M22,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,4.0,p4p000,SA,22,Rref (km),1,1,,BSSA14_Coeffs,N22,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,4.0,p4p000,SA,22,h (km),7.32,7.32,,BSSA14_Coeffs,O22,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,4.0,p4p000,SA,22,Dc3 (globalCATW),0,0,,BSSA14_Coeffs,P22,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,4.0,p4p000,SA,22,Dc3 (ChinaTurkey),0.00261,0.00261,,BSSA14_Coeffs,Q22,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,4.0,p4p000,SA,22,Dc3 (ItalyJapan),-0.00108,-0.00108,,BSSA14_Coeffs,R22,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,4.0,p4p000,SA,22,c,-0.9694,-0.9694,,BSSA14_Coeffs,S22,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,4.0,p4p000,SA,22,Vc (m/s),844.48,844.48,,BSSA14_Coeffs,T22,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,4.0,p4p000,SA,22,Vref  (m/s),760,760,,BSSA14_Coeffs,U22,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,4.0,p4p000,SA,22,f1,0,0,,BSSA14_Coeffs,V22,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,4.0,p4p000,SA,22,f3,0.1,0.1,,BSSA14_Coeffs,W22,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,4.0,p4p000,SA,22,f4,-0.0032,-0.0032,,BSSA14_Coeffs,X22,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,4.0,p4p000,SA,22,f5,-0.00152,-0.00152,,BSSA14_Coeffs,Y22,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,4.0,p4p000,SA,22,f6 (1/km),1.271,1.271,,BSSA14_Coeffs,Z22,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,4.0,p4p000,SA,22,f7,0.629,0.629,,BSSA14_Coeffs,AA22,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,4.0,p4p000,SA,22,R1 (km),129.49,129.49,,BSSA14_Coeffs,AB22,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,4.0,p4p000,SA,22,R2 (km),199.45,199.45,,BSSA14_Coeffs,AC22,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,4.0,p4p000,SA,22,DfR,0.07,0.07,,BSSA14_Coeffs,AD22,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,4.0,p4p000,SA,22,DfV,0,0,,BSSA14_Coeffs,AE22,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,4.0,p4p000,SA,22,V1 (m/s),225,225,,BSSA14_Coeffs,AF22,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,4.0,p4p000,SA,22,V2 (m/s),300,300,,BSSA14_Coeffs,AG22,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,4.0,p4p000,SA,22,f1_2,0.536,0.536,,BSSA14_Coeffs,AH22,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,4.0,p4p000,SA,22,f2,0.616,0.616,,BSSA14_Coeffs,AI22,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,4.0,p4p000,SA,22,t1,0.543,0.543,,BSSA14_Coeffs,AJ22,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,4.0,p4p000,SA,22,t2,0.349,0.349,,BSSA14_Coeffs,AK22,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,5.0,p5p000,SA,23,e0,-1.966,-1.966,,BSSA14_Coeffs,B23,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,5.0,p5p000,SA,23,e1,-1.8882,-1.8882,,BSSA14_Coeffs,C23,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,5.0,p5p000,SA,23,e2,-2.0245,-2.0245,,BSSA14_Coeffs,D23,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,5.0,p5p000,SA,23,e3,-2.0928,-2.0928,,BSSA14_Coeffs,E23,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,5.0,p5p000,SA,23,e4,2.2299,2.2299,,BSSA14_Coeffs,F23,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,5.0,p5p000,SA,23,e5,-0.014855,-0.014855,,BSSA14_Coeffs,G23,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,5.0,p5p000,SA,23,e6,0.87314,0.87314,,BSSA14_Coeffs,H23,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,5.0,p5p000,SA,23,Mh,6.2,6.2,,BSSA14_Coeffs,I23,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,5.0,p5p000,SA,23,c1,-1.2189,-1.2189,,BSSA14_Coeffs,J23,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,5.0,p5p000,SA,23,c2,0.10353,0.10353,,BSSA14_Coeffs,K23,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,5.0,p5p000,SA,23,c3,0,0,,BSSA14_Coeffs,L23,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,5.0,p5p000,SA,23,Mref,4.5,4.5,,BSSA14_Coeffs,M23,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,5.0,p5p000,SA,23,Rref (km),1,1,,BSSA14_Coeffs,N23,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,5.0,p5p000,SA,23,h (km),7.78,7.78,,BSSA14_Coeffs,O23,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,5.0,p5p000,SA,23,Dc3 (globalCATW),0,0,,BSSA14_Coeffs,P23,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,5.0,p5p000,SA,23,Dc3 (ChinaTurkey),0.0026,0.0026,,BSSA14_Coeffs,Q23,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,5.0,p5p000,SA,23,Dc3 (ItalyJapan),-0.00057,-0.00057,,BSSA14_Coeffs,R23,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,5.0,p5p000,SA,23,c,-0.9195,-0.9195,,BSSA14_Coeffs,S23,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,5.0,p5p000,SA,23,Vc (m/s),793.13,793.13,,BSSA14_Coeffs,T23,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,5.0,p5p000,SA,23,Vref  (m/s),760,760,,BSSA14_Coeffs,U23,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,5.0,p5p000,SA,23,f1,0,0,,BSSA14_Coeffs,V23,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,5.0,p5p000,SA,23,f3,0.1,0.1,,BSSA14_Coeffs,W23,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,5.0,p5p000,SA,23,f4,-0.0003,-0.0003,,BSSA14_Coeffs,X23,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,5.0,p5p000,SA,23,f5,-0.00144,-0.00144,,BSSA14_Coeffs,Y23,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,5.0,p5p000,SA,23,f6 (1/km),1.329,1.329,,BSSA14_Coeffs,Z23,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,5.0,p5p000,SA,23,f7,0.738,0.738,,BSSA14_Coeffs,AA23,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,5.0,p5p000,SA,23,R1 (km),130.22,130.22,,BSSA14_Coeffs,AB23,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,5.0,p5p000,SA,23,R2 (km),230,230,,BSSA14_Coeffs,AC23,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,5.0,p5p000,SA,23,DfR,0.061,0.061,,BSSA14_Coeffs,AD23,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,5.0,p5p000,SA,23,DfV,0,0,,BSSA14_Coeffs,AE23,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,5.0,p5p000,SA,23,V1 (m/s),225,225,,BSSA14_Coeffs,AF23,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,5.0,p5p000,SA,23,V2 (m/s),300,300,,BSSA14_Coeffs,AG23,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,5.0,p5p000,SA,23,f1_2,0.528,0.528,,BSSA14_Coeffs,AH23,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,5.0,p5p000,SA,23,f2,0.622,0.622,,BSSA14_Coeffs,AI23,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,5.0,p5p000,SA,23,t1,0.532,0.532,,BSSA14_Coeffs,AJ23,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,5.0,p5p000,SA,23,t2,0.335,0.335,,BSSA14_Coeffs,AK23,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,7.5,p7p500,SA,24,e0,-2.5865,-2.5865,,BSSA14_Coeffs,B24,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,7.5,p7p500,SA,24,e1,-2.4874,-2.4874,,BSSA14_Coeffs,C24,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,7.5,p7p500,SA,24,e2,-2.8176,-2.8176,,BSSA14_Coeffs,D24,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,7.5,p7p500,SA,24,e3,-2.6854,-2.6854,,BSSA14_Coeffs,E24,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,7.5,p7p500,SA,24,e4,2.1187,2.1187,,BSSA14_Coeffs,F24,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,7.5,p7p500,SA,24,e5,-0.081606,-0.081606,,BSSA14_Coeffs,G24,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,7.5,p7p500,SA,24,e6,1.0121,1.0121,,BSSA14_Coeffs,H24,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,7.5,p7p500,SA,24,Mh,6.2,6.2,,BSSA14_Coeffs,I24,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,7.5,p7p500,SA,24,c1,-1.2543,-1.2543,,BSSA14_Coeffs,J24,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,7.5,p7p500,SA,24,c2,0.12507,0.12507,,BSSA14_Coeffs,K24,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,7.5,p7p500,SA,24,c3,0,0,,BSSA14_Coeffs,L24,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,7.5,p7p500,SA,24,Mref,4.5,4.5,,BSSA14_Coeffs,M24,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,7.5,p7p500,SA,24,Rref (km),1,1,,BSSA14_Coeffs,N24,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,7.5,p7p500,SA,24,h (km),9.48,9.48,,BSSA14_Coeffs,O24,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,7.5,p7p500,SA,24,Dc3 (globalCATW),0,0,,BSSA14_Coeffs,P24,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,7.5,p7p500,SA,24,Dc3 (ChinaTurkey),0.0026,0.0026,,BSSA14_Coeffs,Q24,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,7.5,p7p500,SA,24,Dc3 (ItalyJapan),0.00038,0.00038,,BSSA14_Coeffs,R24,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,7.5,p7p500,SA,24,c,-0.7766,-0.7766,,BSSA14_Coeffs,S24,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,7.5,p7p500,SA,24,Vc (m/s),771.01,771.01,,BSSA14_Coeffs,T24,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,7.5,p7p500,SA,24,Vref  (m/s),760,760,,BSSA14_Coeffs,U24,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,7.5,p7p500,SA,24,f1,0,0,,BSSA14_Coeffs,V24,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,7.5,p7p500,SA,24,f3,0.1,0.1,,BSSA14_Coeffs,W24,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,7.5,p7p500,SA,24,f4,-0.0001,-0.0001,,BSSA14_Coeffs,X24,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,7.5,p7p500,SA,24,f5,-0.00137,-0.00137,,BSSA14_Coeffs,Y24,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,7.5,p7p500,SA,24,f6 (1/km),1.329,1.329,,BSSA14_Coeffs,Z24,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,7.5,p7p500,SA,24,f7,0.809,0.809,,BSSA14_Coeffs,AA24,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,7.5,p7p500,SA,24,R1 (km),130.72,130.72,,BSSA14_Coeffs,AB24,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,7.5,p7p500,SA,24,R2 (km),250.39,250.39,,BSSA14_Coeffs,AC24,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,7.5,p7p500,SA,24,DfR,0.058,0.058,,BSSA14_Coeffs,AD24,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,7.5,p7p500,SA,24,DfV,0,0,,BSSA14_Coeffs,AE24,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,7.5,p7p500,SA,24,V1 (m/s),225,225,,BSSA14_Coeffs,AF24,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,7.5,p7p500,SA,24,V2 (m/s),300,300,,BSSA14_Coeffs,AG24,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,7.5,p7p500,SA,24,f1_2,0.512,0.512,,BSSA14_Coeffs,AH24,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,7.5,p7p500,SA,24,f2,0.634,0.634,,BSSA14_Coeffs,AI24,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,7.5,p7p500,SA,24,t1,0.511,0.511,,BSSA14_Coeffs,AJ24,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,7.5,p7p500,SA,24,t2,0.27,0.27,,BSSA14_Coeffs,AK24,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,10.0,p10p000,SA,25,e0,-3.0702,-3.0702,,BSSA14_Coeffs,B25,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,10.0,p10p000,SA,25,e1,-2.9537,-2.9537,,BSSA14_Coeffs,C25,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,10.0,p10p000,SA,25,e2,-3.3776,-3.3776,,BSSA14_Coeffs,D25,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,10.0,p10p000,SA,25,e3,-3.1726,-3.1726,,BSSA14_Coeffs,E25,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,10.0,p10p000,SA,25,e4,1.8837,1.8837,,BSSA14_Coeffs,F25,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,10.0,p10p000,SA,25,e5,-0.15096,-0.15096,,BSSA14_Coeffs,G25,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,10.0,p10p000,SA,25,e6,1.0651,1.0651,,BSSA14_Coeffs,H25,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,10.0,p10p000,SA,25,Mh,6.2,6.2,,BSSA14_Coeffs,I25,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,10.0,p10p000,SA,25,c1,-1.3253,-1.3253,,BSSA14_Coeffs,J25,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,10.0,p10p000,SA,25,c2,0.15183,0.15183,,BSSA14_Coeffs,K25,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,10.0,p10p000,SA,25,c3,0,0,,BSSA14_Coeffs,L25,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,10.0,p10p000,SA,25,Mref,4.5,4.5,,BSSA14_Coeffs,M25,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,10.0,p10p000,SA,25,Rref (km),1,1,,BSSA14_Coeffs,N25,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,10.0,p10p000,SA,25,h (km),9.66,9.66,,BSSA14_Coeffs,O25,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,10.0,p10p000,SA,25,Dc3 (globalCATW),0,0,,BSSA14_Coeffs,P25,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,10.0,p10p000,SA,25,Dc3 (ChinaTurkey),0.00303,0.00303,,BSSA14_Coeffs,Q25,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,10.0,p10p000,SA,25,Dc3 (ItalyJapan),0.00149,0.00149,,BSSA14_Coeffs,R25,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,10.0,p10p000,SA,25,c,-0.6558,-0.6558,,BSSA14_Coeffs,S25,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,10.0,p10p000,SA,25,Vc (m/s),775,775,,BSSA14_Coeffs,T25,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,10.0,p10p000,SA,25,Vref  (m/s),760,760,,BSSA14_Coeffs,U25,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,10.0,p10p000,SA,25,f1,0,0,,BSSA14_Coeffs,V25,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,10.0,p10p000,SA,25,f3,0.1,0.1,,BSSA14_Coeffs,W25,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,10.0,p10p000,SA,25,f4,0,0,,BSSA14_Coeffs,X25,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,10.0,p10p000,SA,25,f5,-0.00136,-0.00136,,BSSA14_Coeffs,Y25,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,10.0,p10p000,SA,25,f6 (1/km),1.183,1.183,,BSSA14_Coeffs,Z25,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,10.0,p10p000,SA,25,f7,0.703,0.703,,BSSA14_Coeffs,AA25,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,10.0,p10p000,SA,25,R1 (km),130,130,,BSSA14_Coeffs,AB25,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,10.0,p10p000,SA,25,R2 (km),210,210,,BSSA14_Coeffs,AC25,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,10.0,p10p000,SA,25,DfR,0.06,0.06,,BSSA14_Coeffs,AD25,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,10.0,p10p000,SA,25,DfV,0,0,,BSSA14_Coeffs,AE25,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,10.0,p10p000,SA,25,V1 (m/s),225,225,,BSSA14_Coeffs,AF25,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,10.0,p10p000,SA,25,V2 (m/s),300,300,,BSSA14_Coeffs,AG25,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,10.0,p10p000,SA,25,f1_2,0.51,0.51,,BSSA14_Coeffs,AH25,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,10.0,p10p000,SA,25,f2,0.604,0.604,,BSSA14_Coeffs,AI25,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,10.0,p10p000,SA,25,t1,0.487,0.487,,BSSA14_Coeffs,AJ25,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,10.0,p10p000,SA,25,t2,0.239,0.239,,BSSA14_Coeffs,AK25,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.0,pga,PGA,26,e0,0.4473,0.4473,,BSSA14_Coeffs,B26,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.0,pga,PGA,26,e1,0.4856,0.4856,,BSSA14_Coeffs,C26,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.0,pga,PGA,26,e2,0.2459,0.2459,,BSSA14_Coeffs,D26,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.0,pga,PGA,26,e3,0.4539,0.4539,,BSSA14_Coeffs,E26,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.0,pga,PGA,26,e4,1.431,1.431,,BSSA14_Coeffs,F26,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.0,pga,PGA,26,e5,0.05053,0.05053,,BSSA14_Coeffs,G26,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.0,pga,PGA,26,e6,-0.1662,-0.1662,,BSSA14_Coeffs,H26,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.0,pga,PGA,26,Mh,5.5,5.5,,BSSA14_Coeffs,I26,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.0,pga,PGA,26,c1,-1.134,-1.134,,BSSA14_Coeffs,J26,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.0,pga,PGA,26,c2,0.1917,0.1917,,BSSA14_Coeffs,K26,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.0,pga,PGA,26,c3,-0.008088,-0.008088,,BSSA14_Coeffs,L26,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.0,pga,PGA,26,Mref,4.5,4.5,,BSSA14_Coeffs,M26,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.0,pga,PGA,26,Rref (km),1,1,,BSSA14_Coeffs,N26,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.0,pga,PGA,26,h (km),4.5,4.5,,BSSA14_Coeffs,O26,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.0,pga,PGA,26,Dc3 (globalCATW),0,0,,BSSA14_Coeffs,P26,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.0,pga,PGA,26,Dc3 (ChinaTurkey),0.00286,0.00286,,BSSA14_Coeffs,Q26,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.0,pga,PGA,26,Dc3 (ItalyJapan),-0.00255,-0.00255,,BSSA14_Coeffs,R26,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.0,pga,PGA,26,c,-0.6,-0.6,,BSSA14_Coeffs,S26,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.0,pga,PGA,26,Vc (m/s),1500,1500,,BSSA14_Coeffs,T26,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.0,pga,PGA,26,Vref  (m/s),760,760,,BSSA14_Coeffs,U26,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.0,pga,PGA,26,f1,0,0,,BSSA14_Coeffs,V26,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.0,pga,PGA,26,f3,0.1,0.1,,BSSA14_Coeffs,W26,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.0,pga,PGA,26,f4,-0.15,-0.15,,BSSA14_Coeffs,X26,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.0,pga,PGA,26,f5,-0.00701,-0.00701,,BSSA14_Coeffs,Y26,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.0,pga,PGA,26,f6 (1/km),-9.9,-9.9,,BSSA14_Coeffs,Z26,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.0,pga,PGA,26,f7,-9.9,-9.9,,BSSA14_Coeffs,AA26,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.0,pga,PGA,26,R1 (km),110,110,,BSSA14_Coeffs,AB26,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.0,pga,PGA,26,R2 (km),270,270,,BSSA14_Coeffs,AC26,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.0,pga,PGA,26,DfR,0.1,0.1,,BSSA14_Coeffs,AD26,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.0,pga,PGA,26,DfV,0.07,0.07,,BSSA14_Coeffs,AE26,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.0,pga,PGA,26,V1 (m/s),225,225,,BSSA14_Coeffs,AF26,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.0,pga,PGA,26,V2 (m/s),300,300,,BSSA14_Coeffs,AG26,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.0,pga,PGA,26,f1_2,0.695,0.695,,BSSA14_Coeffs,AH26,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.0,pga,PGA,26,f2,0.495,0.495,,BSSA14_Coeffs,AI26,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.0,pga,PGA,26,t1,0.398,0.398,,BSSA14_Coeffs,AJ26,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,0.0,pga,PGA,26,t2,0.348,0.348,,BSSA14_Coeffs,AK26,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,-1.0,pgv,PGV,27,e0,5.037,5.037,,BSSA14_Coeffs,B27,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,-1.0,pgv,PGV,27,e1,5.078,5.078,,BSSA14_Coeffs,C27,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,-1.0,pgv,PGV,27,e2,4.849,4.849,,BSSA14_Coeffs,D27,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,-1.0,pgv,PGV,27,e3,5.033,5.033,,BSSA14_Coeffs,E27,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,-1.0,pgv,PGV,27,e4,1.073,1.073,,BSSA14_Coeffs,F27,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,-1.0,pgv,PGV,27,e5,-0.1536,-0.1536,,BSSA14_Coeffs,G27,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,-1.0,pgv,PGV,27,e6,0.2252,0.2252,,BSSA14_Coeffs,H27,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,-1.0,pgv,PGV,27,Mh,6.2,6.2,,BSSA14_Coeffs,I27,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,-1.0,pgv,PGV,27,c1,-1.243,-1.243,,BSSA14_Coeffs,J27,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,-1.0,pgv,PGV,27,c2,0.1489,0.1489,,BSSA14_Coeffs,K27,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,-1.0,pgv,PGV,27,c3,-0.00344,-0.00344,,BSSA14_Coeffs,L27,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,-1.0,pgv,PGV,27,Mref,4.5,4.5,,BSSA14_Coeffs,M27,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,-1.0,pgv,PGV,27,Rref (km),1,1,,BSSA14_Coeffs,N27,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,-1.0,pgv,PGV,27,h (km),5.3,5.3,,BSSA14_Coeffs,O27,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,-1.0,pgv,PGV,27,Dc3 (globalCATW),0,0,,BSSA14_Coeffs,P27,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,-1.0,pgv,PGV,27,Dc3 (ChinaTurkey),0.00435,0.00435,,BSSA14_Coeffs,Q27,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,-1.0,pgv,PGV,27,Dc3 (ItalyJapan),-0.00033,-0.00033,,BSSA14_Coeffs,R27,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,-1.0,pgv,PGV,27,c,-0.84,-0.84,,BSSA14_Coeffs,S27,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,-1.0,pgv,PGV,27,Vc (m/s),1300,1300,,BSSA14_Coeffs,T27,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,-1.0,pgv,PGV,27,Vref  (m/s),760,760,,BSSA14_Coeffs,U27,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,-1.0,pgv,PGV,27,f1,0,0,,BSSA14_Coeffs,V27,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,-1.0,pgv,PGV,27,f3,0.1,0.1,,BSSA14_Coeffs,W27,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,-1.0,pgv,PGV,27,f4,-0.1,-0.1,,BSSA14_Coeffs,X27,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,-1.0,pgv,PGV,27,f5,-0.00844,-0.00844,,BSSA14_Coeffs,Y27,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,-1.0,pgv,PGV,27,f6 (1/km),-9.9,-9.9,,BSSA14_Coeffs,Z27,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,-1.0,pgv,PGV,27,f7,-9.9,-9.9,,BSSA14_Coeffs,AA27,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,-1.0,pgv,PGV,27,R1 (km),105,105,,BSSA14_Coeffs,AB27,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,-1.0,pgv,PGV,27,R2 (km),272,272,,BSSA14_Coeffs,AC27,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,-1.0,pgv,PGV,27,DfR,0.082,0.082,,BSSA14_Coeffs,AD27,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,-1.0,pgv,PGV,27,DfV,0.08,0.08,,BSSA14_Coeffs,AE27,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,-1.0,pgv,PGV,27,V1 (m/s),225,225,,BSSA14_Coeffs,AF27,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,-1.0,pgv,PGV,27,V2 (m/s),300,300,,BSSA14_Coeffs,AG27,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,-1.0,pgv,PGV,27,f1_2,0.644,0.644,,BSSA14_Coeffs,AH27,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,-1.0,pgv,PGV,27,f2,0.552,0.552,,BSSA14_Coeffs,AI27,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,-1.0,pgv,PGV,27,t1,0.401,0.401,,BSSA14_Coeffs,AJ27,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm
+BSSA14,-1.0,pgv,PGV,27,t2,0.346,0.346,,BSSA14_Coeffs,AK27,NGAW2_GMPE_Spreadsheets_v5.7_041415_ProtectedLocked.xlsm

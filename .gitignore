@@ -1,3 +1,17 @@
 .DS_Store
+__pycache__/
+*.py[cod]
 output/
 shiny-app/data/cache/
+output/gmpe_vba/
+output/vba/
+gmpe/reference/vba/
+gmpe/python/.pytest_cache/
+gmpe/python/build/
+gmpe/python/dist/
+gmpe/python/*.egg-info/
+gmpe/python/src/*.egg-info/
+gmpe/R/.Rproj.user/
+gmpe/R/*.Rcheck/
+gmpe/R/src/*.o
+gmpe/R/src/*.so
